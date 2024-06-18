@@ -1,0 +1,28 @@
+bankJesus/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── seuempresa/
+│   │   │           └── bankjesus/
+│   │   │               ├── controller/
+│   │   │               │   └── ClienteController.java
+│   │   │               ├── model/
+│   │   │               │   ├── Cliente.java
+│   │   │               │   ├── Conta.java
+│   │   │               │   └── Transacao.java
+│   │   │               ├── repository/
+│   │   │               │   ├── ClienteRepository.java
+│   │   │               │   ├── ContaRepository.java
+│   │   │               │   └── TransacaoRepository.java
+│   │   │               ├── service/
+│   │   │               │   ├── ClienteService.java
+│   │   │               │   ├── ContaService.java
+│   │   │               │   └── TransacaoService.java
+│   │   │               └── BankJesusApplication.java
+│   │   ├── resources/
+│   │   │   └── application.properties
+│   │   └── webapp/
+│   └── test/
+│       └── java/
+└── pom.xml
