@@ -85,3 +85,6 @@ o	Importe as coleções de requisições no Postman para facilitar os testes.
 o	Organize as requisições por funcionalidade (clientes, contas corrente, contas pagamento, etc.).
 2.	Ambientes no Postman:
 o	Configure diferentes ambientes no Postman para facilitar o teste em diferentes configurações de desenvolvimento, teste e produção.
+
+
+
